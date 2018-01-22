@@ -10,18 +10,20 @@ using System.Windows.Forms;
 
 namespace CodeAcademyInfoSystem
 {
-    public partial class AdminForm : Form
+
+    public partial class AddGroupForm : Form
     {
-       
-        public AdminForm()
+        CodeAcademy_DBEntities db = new CodeAcademy_DBEntities();
+        public AddGroupForm()
         {
             InitializeComponent();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        
+
+        private void AddGroupForm_Load(object sender, EventArgs e)
         {
-            AddGroupForm add_group = new AddGroupForm();
-            add_group.ShowDialog();
+            
         }
     }
 }
