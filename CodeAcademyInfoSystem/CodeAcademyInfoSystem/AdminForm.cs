@@ -23,5 +23,11 @@ namespace CodeAcademyInfoSystem
             AddGroupForm add_group = new AddGroupForm();
             add_group.ShowDialog();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            AddStudent add_student = new AddStudent();
+            add_student.ShowDialog();
+        }
     }
 }

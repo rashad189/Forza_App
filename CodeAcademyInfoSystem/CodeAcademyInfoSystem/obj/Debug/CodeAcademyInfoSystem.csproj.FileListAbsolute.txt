@@ -44,3 +44,4 @@ C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debu
 C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.exe
 C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.pdb
 C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddGroupForm.resources
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddStudent.resources
